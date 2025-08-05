@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="722320c0-d461-4b27-96bc-9f2df3ddc9bc" name="Changes" comment="Python basic problems" />
+    <list default="true" id="722320c0-d461-4b27-96bc-9f2df3ddc9bc" name="Changes" comment="Python basic problems">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Problem 1.executor": "Run",
+    "Python.Problem 10.executor": "Run",
+    "Python.Problem 11.executor": "Run",
+    "Python.Problem 12.executor": "Run",
+    "Python.Problem 13.executor": "Run",
+    "Python.Problem 14.executor": "Run",
+    "Python.Problem 15.executor": "Run",
+    "Python.Problem 16.executor": "Run",
     "Python.Problem 2.executor": "Run",
     "Python.Problem 3.executor": "Run",
     "Python.Problem 4.executor": "Run",
@@ -91,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753957806514</updated>
       <workItem from="1753957807319" duration="9519000" />
-      <workItem from="1754254561962" duration="1589000" />
+      <workItem from="1754254561962" duration="2160000" />
+      <workItem from="1754395369892" duration="5901000" />
     </task>
     <task id="LOCAL-00001" summary="Python basic problems">
       <option name="closed" value="true" />
@@ -125,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754256648100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python basic problems">
+      <option name="closed" value="true" />
+      <created>1754256889468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754256889469</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,14 +166,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python basic problems" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_1.coverage" NAME="Problem 1 Coverage Results" MODIFIED="1753958173670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_11.coverage" NAME="Problem 11 Coverage Results" MODIFIED="1754395822157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_14.coverage" NAME="Problem 14 Coverage Results" MODIFIED="1754400095189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_3.coverage" NAME="Problem 3 Coverage Results" MODIFIED="1753958730899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_9.coverage" NAME="Problem 9 Coverage Results" MODIFIED="1754256628899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_7.coverage" NAME="Problem 7 Coverage Results" MODIFIED="1754255854858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_9.coverage" NAME="Problem 9 Coverage Results" MODIFIED="1754257001612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_5.coverage" NAME="Problem 5 Coverage Results" MODIFIED="1753961792154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_8.coverage" NAME="Problem 8 Coverage Results" MODIFIED="1754256346994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_6.coverage" NAME="Problem 6 Coverage Results" MODIFIED="1753962109067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_2.coverage" NAME="Problem 2 Coverage Results" MODIFIED="1753958454382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_15.coverage" NAME="Problem 15 Coverage Results" MODIFIED="1754401302965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_4.coverage" NAME="Problem 4 Coverage Results" MODIFIED="1753959218670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_1.coverage" NAME="Problem 1 Coverage Results" MODIFIED="1753958173670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_16.coverage" NAME="Problem 16 Coverage Results" MODIFIED="1754401237682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_7.coverage" NAME="Problem 7 Coverage Results" MODIFIED="1754255854858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_10.coverage" NAME="Problem 10 Coverage Results" MODIFIED="1754395592607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_12.coverage" NAME="Problem 12 Coverage Results" MODIFIED="1754396120510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_6.coverage" NAME="Problem 6 Coverage Results" MODIFIED="1753962109067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_13.coverage" NAME="Problem 13 Coverage Results" MODIFIED="1754398001103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_exercise_problems$Problem_2.coverage" NAME="Problem 2 Coverage Results" MODIFIED="1753958454382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
