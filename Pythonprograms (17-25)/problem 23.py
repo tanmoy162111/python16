@@ -1,0 +1,5 @@
+input_string = input("Enter numbers separated by spaces: ")
+num = int(input("Enter a positive number: "))
+my_list = list(map(int, input_string.split()))
+result = list(filter(lambda x: x % num == 0, my_list))
+print("Numbers divisible by your number are:", result)
