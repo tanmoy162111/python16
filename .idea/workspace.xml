@@ -76,6 +76,7 @@
     "Python.Problem 7.executor": "Run",
     "Python.Problem 8.executor": "Run",
     "Python.Problem 9.executor": "Run",
+    "Python.car_class.executor": "Run",
     "Python.problem 17.executor": "Run",
     "Python.problem 18.executor": "Run",
     "Python.problem 19.executor": "Run",
@@ -93,6 +94,7 @@
     "Python.problem 38.executor": "Run",
     "Python.problem 40.executor": "Run",
     "Python.probnlem 20.executor": "Run",
+    "Python.student_class.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -218,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756218937406</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Python basic problems">
+      <option name="closed" value="true" />
+      <created>1756817333754</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756817333754</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
